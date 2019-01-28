@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="893d5ddf-a464-4044-b898-b825d50f2109" name="Default Changelist" comment="">
+    <list default="true" id="893d5ddf-a464-4044-b898-b825d50f2109" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastart.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/javastart.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/BigIntegerBigDecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/CalculatorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/IncrementDecrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/MinMaxValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/ApplicationUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/ArraysExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/ForsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/IfsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/Methods2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sda/javastart/day2/IfsExampleTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,30 +36,21 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ApplicationUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkMethodsUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ArraysExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-422">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="572">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day1/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkLoops.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1360">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -55,6 +66,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -95,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,6 +118,11 @@
             <path>
               <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
               <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -127,6 +145,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javastart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
@@ -141,6 +168,15 @@
               <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
               <item name="javastart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -148,7 +184,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548605364147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Arrays Examples">
+      <created>1548689737508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548689737508</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -300,9 +342,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1852349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -318,7 +361,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3243626" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50086206" side_tool="true" weight="0.21825963" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.33095577" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.33044422" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32577905" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -455,9 +498,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/gitignore" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
