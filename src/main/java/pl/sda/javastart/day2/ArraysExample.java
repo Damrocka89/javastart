@@ -69,4 +69,5 @@ public class ArraysExample {
         int[] result = new int[]{min, max};
         return result;
     }
+
 }
