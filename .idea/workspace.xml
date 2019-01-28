@@ -9,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javastart.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/javastart.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/BigIntegerBigDecimal.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/CalculatorExample.class" beforeDir="false" />
@@ -97,9 +97,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="width" value="1525" />
-    <option name="height" value="1044" />
+    <option name="x" value="2197" />
+    <option name="y" value="178" />
+    <option name="width" value="976" />
+    <option name="height" value="669" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -178,6 +179,13 @@
               <item name="javastart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -343,9 +351,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -359,9 +366,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3243626" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32394367" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50086206" side_tool="true" weight="0.21825963" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.33044422" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.33044422" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32577905" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
