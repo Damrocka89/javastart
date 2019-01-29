@@ -14,18 +14,18 @@ public class ArraysExample {
         // int[] anotherTable = {1,5,4,3,2,3}; skrocona wersja
         int[] anotherTable = new int[]{1, 5, 4, 3, 2, 3};
 
-        printElementsOfArray(anotherTable);
-        printElementsOfArrayForEach(anotherTable);
-        System.out.println(printPrettyArray(anotherTable));
-        System.out.println(anotherTable.toString());
-        System.out.println(Arrays.toString(anotherTable));
+//        printElementsOfArray(anotherTable);
+//        printElementsOfArrayForEach(anotherTable);
+//        System.out.println(printPrettyArray(anotherTable));
+//        System.out.println(anotherTable.toString());
+//        System.out.println(Arrays.toString(anotherTable));
         System.out.println(Arrays.toString(findMaxAndMin(anotherTable)));
 
         //spróbuj wykonać stream:
 
-        Arrays.stream(anotherTable)
-                .filter(e-> e%2!=0)
-                .forEach(e->System.out.println(e));
+//        Arrays.stream(anotherTable)
+//                .filter(e-> e%2!=0)
+//                .forEach(e->System.out.println(e));
 
     }
 

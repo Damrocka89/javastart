@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="893d5ddf-a464-4044-b898-b825d50f2109" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="893d5ddf-a464-4044-b898-b825d50f2109" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastart.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/javastart.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/BigIntegerBigDecimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/CalculatorExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/IncrementDecrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day1/MinMaxValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/ApplicationUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/ArraysExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/ForsExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/IfsExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/day2/Methods2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sda/javastart/day2/IfsExampleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ArraysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ArraysExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,21 +19,30 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkMethodsUtils.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="408">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkLoops.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="606">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ArraysExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="25" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="59" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -85,7 +77,10 @@
         <option value="$PROJECT_DIR$/src/test/java/pl/sda/javastart/day2/IfsExampleTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/IfsExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ForsExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkCaughtSpeeding.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ArraysExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkLoops.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkArrays.java" />
       </list>
     </option>
   </component>
@@ -97,10 +92,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2197" />
-    <option name="y" value="178" />
-    <option name="width" value="976" />
-    <option name="height" value="669" />
+    <option name="x" value="2098" />
+    <option name="y" value="176" />
+    <option name="width" value="1400" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -119,11 +115,6 @@
             <path>
               <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
               <item name="javastart" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javastart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -146,15 +137,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javastart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javastart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javastart" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
@@ -177,31 +159,22 @@
             <path>
               <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
               <item name="javastart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javastart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javastart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548606377394" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548744292122" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -223,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArraysExample">
+  <component name="RunManager" selected="Application.HomeworkArrays">
     <configuration name="ArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.day2.ArraysExample" />
       <module name="javastart" />
@@ -250,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.day2.IfsExample" />
+    <configuration name="HomeworkArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.Homework1.HomeworkArrays" />
       <module name="javastart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.javastart.day2.*" />
+          <option name="PATTERN" value="pl.sda.javastart.Homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,44 +236,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfsExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeworkCaughtSpeeding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.Homework1.HomeworkCaughtSpeeding" />
       <module name="javastart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.javastart.day2.*" />
+          <option name="PATTERN" value="pl.sda.javastart.Homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sda.javastart.day2" />
-      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.day2.IfsExampleTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfsExampleTest.shouldNotAnswerBecauseWeAreAsleep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HomeworkLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.Homework1.HomeworkLoops" />
       <module name="javastart" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.javastart.day2.*" />
+          <option name="PATTERN" value="pl.sda.javastart.Homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sda.javastart.day2" />
-      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.day2.IfsExampleTest" />
-      <option name="METHOD_NAME" value="shouldNotAnswerBecauseWeAreAsleep" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeworkArrays" />
+        <item itemvalue="Application.HomeworkLoops" />
         <item itemvalue="Application.ArraysExample" />
+        <item itemvalue="Application.HomeworkCaughtSpeeding" />
         <item itemvalue="Application.ForsExample" />
-        <item itemvalue="Application.IfsExample" />
-        <item itemvalue="JUnit.IfsExampleTest" />
-        <item itemvalue="JUnit.IfsExampleTest.shouldNotAnswerBecauseWeAreAsleep" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +297,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548689737508</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1548695635053</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548695635053</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".">
+      <created>1548704190462</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548704190462</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -351,8 +333,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15245202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -361,15 +344,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49913794" weight="0.2181303" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49913794" visible="true" weight="0.21776815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39800286" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32394367" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50086206" side_tool="true" weight="0.21825963" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32394367" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.32502708" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.33044422" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32577905" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989339" weight="0.32502708" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -382,7 +365,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Arrays Examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays Examples" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -498,13 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ArraysExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-422">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/gitignore" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -513,9 +490,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkCaughtSpeeding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkMethodsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkLoops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/day2/ArraysExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="25" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="59" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Homework1/HomeworkArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -539,8 +575,22 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javastart</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
