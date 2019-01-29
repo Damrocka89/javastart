@@ -8,7 +8,9 @@ public class HomeworkScanner {
 
     public static void main(String[] args) {
 
-        conversation();
+        // conversation();
+        //sumDifference();
+        heyhello();
     }
 
     public static void conversation() {
@@ -27,5 +29,54 @@ public class HomeworkScanner {
         samopoczucie = scanner.nextLine();
         System.out.println("Cieszę się, że czujesz się " + samopoczucie);
 
+    }
+
+    public static void sumDifference() {
+        System.out.println("Podaj pierwszą liczbe");
+        int first = scanner.nextInt();
+        System.out.println("Podaj drugą liczbę");
+        int second = scanner.nextInt();
+        String choice;
+        boolean koniec = false;
+
+        do {
+            System.out.println("Dodać (+) czy odjąć (-)?");
+
+            choice = scanner.next();
+            scanner.nextLine();
+
+            switch (choice) {
+                case "+":
+                    System.out.println(first + "+" + second + "=" + (first + second));
+                    break;
+                case "-":
+                    System.out.println(first + "-" + second + "=" + (first - second));
+                    break;
+                case "koniec":
+                    koniec = true;
+                    break;
+            }
+        } while (!koniec);
+    }
+
+    public static void heyhello() {
+        System.out.println("Pass the language code(PL, EN, DE, FR)");
+        switch (scanner.nextLine()) {
+            case "PL":
+                System.out.println("Dzień dobry, witam serdecznie!");
+                break;
+            case "EN":
+                System.out.println("Good morning! Welcome");
+                break;
+            case "DE":
+                System.out.println("Guten Morgen. Herzlich wWlkommen");
+                break;
+            case "FR":
+                System.out.println("Bonne matin. Bienvenue!");
+                break;
+            default:
+                System.out.println("Wrong code, anyway: Welcome!");
+                break;
+        }
     }
 }

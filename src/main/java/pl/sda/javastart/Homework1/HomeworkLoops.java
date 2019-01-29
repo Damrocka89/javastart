@@ -8,17 +8,23 @@ public class HomeworkLoops {
 
     public static void main(String[] args) {
 
-        printCubesOfNumbers(4);
-        countdown(15);
-        printMultiplications(6);
-        interval(5, 9);
-        powerWithLimit(2, 20);
-        oddEvenFor();
-        System.out.println("****************************");
-        oddEvenWhile();
-        System.out.println("****************************");
-        oddEvenDoWhile();
-        arythmeticsScanner();
+//        printCubesOfNumbers(4);
+//        countdown(15);
+//        printMultiplications(6);
+//        interval(5, 9);
+//        powerWithLimit(2, 20);
+//        oddEvenFor();
+//        System.out.println("****************************");
+//        oddEvenWhile();
+//        System.out.println("****************************");
+//        oddEvenDoWhile();
+//        arythmeticsScanner();
+
+        // tree(3);
+        //xmasTree(10);
+        //xmasTree(11);
+        multiplicationTable(8);
+
     }
 
     public static void printCubesOfNumbers(int limit) {
@@ -109,4 +115,54 @@ public class HomeworkLoops {
         average = sum / elements.length;
         System.out.println("Suma wszystkich liczb wynosi: " + sum + ", średnia zaś: " + average + ", min: " + min + ", max: " + max);
     }
+
+    public static void tree(int verse) {
+        for (int i = 1; i <= verse; i++) {
+            for (int k = verse - i; k > 0; k--) {
+                System.out.print(" ");
+            }
+            for (int j = 1; j <= i; j++) {
+                System.out.print(j);
+            }
+            System.out.println("");
+        }
+    }
+
+    public static void xmasTree(int verse) {
+        for (int i = 1; i <= verse; i++) {
+            for (int j = verse + 1 - i; j > 0; j--) {
+                System.out.print("*");
+            }
+            for (int k = 1; k <= i; k++) {
+                System.out.print(k);
+            }
+            for (int m = verse - i + 2; m <= verse && i > 1; m++) {
+                System.out.print(verse - m + 1);
+            }
+            for (int n = verse + 1 - i; n > 0; n--) {
+                System.out.print("*");
+            }
+            System.out.println("");
+        }
+
+    }
+
+    public static void multiplicationTable(int number) {
+        for (int i = 1; i <= number; i++) {
+            System.out.print("\t" + i);
+        }
+        System.out.println("");
+        for (int i = 1; i <= number; i++) {
+            System.out.print("-----");
+        }
+        System.out.println("");
+        for (int i = 1; i <= number; i++) {
+            System.out.print(i + "|");
+            for (int j = 1; j <= number; j++) {
+                System.out.print("\t" + i * j);
+            }
+            System.out.println("");
+        }
+    }
 }
+
